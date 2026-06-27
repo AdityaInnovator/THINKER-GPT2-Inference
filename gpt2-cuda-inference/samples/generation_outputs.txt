@@ -1,0 +1,23 @@
+next_token_gen - INPUT TEXT:
+The meaning of life is
+
+GENERATED TEXT:
+ often misunderstood; if you're looking to become a doctor or a nurse, for example, you're definitely looking at an open door. This offers a whole lot of options and makes you more likely to choose the right one for you.
+
+One
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+The meaning of life is
+
+GENERATED TEXT:
+ that we are essentially living on the surface of a sugar rich plate, the surface of a sugar rich meal. We eat it, we drink it, or we play it. We are completely consumed by it. We have no idea what it tastes like
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+The meaning of life is
+
+GENERATED TEXT:
+ not complete, and thus it is not a complete and complete work. Thus salvation is not complete. It is not complete and complete. It is not good. It is not good. It is not good. It is not good. It is not
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

@@ -1,0 +1,10 @@
+Attribution
+-----------
+
+- **Upstream:** [llm.c](https://github.com/karpathy/llm.c) by Andrej Karpathy (MIT License).
+  See `LICENSE.llm.c`.
+- **Course project:** ECE 408 GPT-2 CUDA final project, University of Illinois (team ClosedAI).
+  Course handouts and autograder infrastructure are not included.
+- **Portfolio:** Reorganized and documented for public GitHub by Aditya Prasath Ravilla.
+
+This repository is **not** affiliated with the University of Illinois or the ECE 408 staff.
