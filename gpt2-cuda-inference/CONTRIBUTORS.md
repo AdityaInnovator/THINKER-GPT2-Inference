@@ -8,10 +8,7 @@ your team's split before publishing.
 
 | Member | Focus areas (edit as accurate) |
 |--------|--------------------------------|
-| _Your name_ | KV-cache attention, cp.async GEMM, profiling |
-| _Teammate 2_ | Flash attention, tensor-core matmul |
-| _Teammate 3_ | cuBLAS integration, reduction kernels |
-| _Teammate 4_ | LayerNorm/softmax, verification harness |
+| Aditya | KV-cache attention, cp.async GEMM, profiling, LayerNorm/softmax, verification harness, Flash attention, tensor-core matmul, cuBLAS integration, reduction kernels |
 
 ## Portfolio packaging
 
